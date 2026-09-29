@@ -1,6 +1,6 @@
 ---
 name: spec-plan
-description: Writes or updates a spec in spec/ from the current design conversation, for a single vertical change, so that a fresh session can implement it with a clean context. Use at the end of a design conversation, when the user says "write the spec", "save the spec", "turn this into a spec", "wrap up the design", or similar. Not for updating a spec at the end of an implementation session: that is spec-do.
+description: Writes or updates a spec in spec/ from the current design conversation, for a single vertical change, so that a fresh session can implement it with a clean context. Use at the end of a design conversation, when the user says "write the spec", "save the spec", "turn this into a spec", "wrap up the design", or similar. Not for updating a spec at the end of an implementation session (that is spec-do).
 ---
 
 # spec-plan
